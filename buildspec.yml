@@ -6,3 +6,4 @@ phases:
     build:
         commands:
             - npm ci
+            - ls
