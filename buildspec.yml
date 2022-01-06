@@ -8,3 +8,4 @@ phases:
             - npm ci
             - ls
             - pwd
+            - ls
